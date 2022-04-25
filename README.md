@@ -1,6 +1,6 @@
 # Linux 常用命令手册
 ## 1.文件传输
-  1. bye
+  ### 1. bye
   2. ftp(file transfer protocol) 
   3. ftpcount
   1-4.ftpshut(ftp shutdown)
