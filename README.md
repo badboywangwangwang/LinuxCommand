@@ -1,9 +1,9 @@
 # Linux 常用命令手册
 ## 1.文件传输
-  1-1. bye
-  1-2. ftp(file transfer protocol) 
-  1-3. ftpcount
-  1-4. ftpshut(ftp shutdown)
+  1-1.bye
+  1-2.ftp(file transfer protocol) 
+  1-3.ftpcount
+  1-4.ftpshut(ftp shutdown)
   1-5. ftpwho
   1-6. ncftp(nc file transfer protocol)
   1-7. tftp(trivial file transfer protocol)
